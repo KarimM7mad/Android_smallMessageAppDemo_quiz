@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CSE437_Quiz2</string>
+    <string-array name="senders">
+        <item>Marcos Dalton</item>
+        <item>Ruby Mcknight</item>
+        <item>Max Tucker</item>
+        <item>Coby Cooper</item>
+        <item>Alisa Colon</item>
+    </string-array>
+    <string-array name="messages">
+        <item>Hey how are you? I would like to talk to you. Call me as soon as you get this.</item>
+        <item>Thanks mate! Feel way better now.</item>
+        <item>Hey if you are in town on Mon/Tue the 20th and 21st, give me a call.</item>
+        <item>Hey team. Just a reminder: the meeting starts 10:00 am tomorrow. Please be on time.</item>
+        <item>Your dentist appointment with Dr.Smith is wednesday at 11 am. Please don\'t be late. We look forward to seeing you!</item>
+    </string-array>
+</resources>
